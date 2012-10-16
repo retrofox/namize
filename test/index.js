@@ -1,6 +1,6 @@
 var namize = require('../');
 
-describe('standarize(string, 20)', function(){
+describe('namize(string, 20)', function(){
   it('should return a string equal to \'Rene Geronimo Favaloro,\'', function(){
     namize('RENE GERONIMO FAVALORO').should.be.equal('Rene Geronimo Favaloro');
     namize('rene geronimo favaloro').should.be.equal('Rene Geronimo Favaloro');
