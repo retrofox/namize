@@ -1,0 +1,5 @@
+
+# namize
+
+  Namize a string
+
