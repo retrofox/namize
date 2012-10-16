@@ -2,8 +2,8 @@
   "name": "namize",
   "repo": "retrofox/namize",
   "description": "Namize a string",
-  "version": "0.0.1",
-  "keywords": [],
+  "version": "0.1.0",
+  "keywords": ["string", "namize"],
   "dependencies": {},
   "development": {},
   "scripts": [
