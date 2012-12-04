@@ -1,7 +1,7 @@
 
 # Namize
 
-  String namize utility. [Testing page](http://retrofox.github.com/standarize)
+  String namize utility. [Testing page](http://retrofox.github.com/namize)
 
 ## Installation
 
