@@ -2,6 +2,8 @@
   "name": "namize",
   "repo": "retrofox/namize",
   "description": "Namize a string",
+  "author": "Damian Suarez <rdsuarez@gmail.com>",
+  "twitter": "@retrofox",
   "version": "0.1.0",
   "keywords": ["string", "namize"],
   "dependencies": {},
