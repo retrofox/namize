@@ -7,7 +7,7 @@
 
 ```
 $ npm install namize
-$ component install component/namize
+$ component install retrofox/namize
 ```
 
 ## API
